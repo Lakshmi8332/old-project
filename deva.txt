@@ -1,3 +1,8 @@
 ahfjfhajmnfasjkfa
+<<<<<<< HEAD
 sdanfa,m
 ths iapamd,safaa
+=======
+sdanfa,ma
+hafjfkahfaifjas,mfnasmf
+>>>>>>> 257badd75a49aa68f6563d0cbea212d7214a8c45
